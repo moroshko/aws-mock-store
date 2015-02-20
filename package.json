@@ -1,0 +1,13 @@
+{
+  "name": "aws-mock-store",
+  "version": "1.0.0",
+  "description": "Mock for moroshko/aws-s3-store and moroshko/aws-dynamodb-store",
+  "author": "Misha Moroshko <michael.moroshko@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moroshko/aws-mock-store.git"
+  },
+  "dependencies": {
+    "node-uuid": "^1.4.2"
+  }
+}
